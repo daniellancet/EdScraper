@@ -33,6 +33,3 @@ class OrgSpider(scrapy.Spider):
             visible_text = visible_text.replace("\t", " ")
             return visible_text
     
-
-    def do_nothing():
-         return 

@@ -6,3 +6,5 @@
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
+def pipeline():
+    return "hello"
