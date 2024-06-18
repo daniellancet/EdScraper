@@ -34,3 +34,5 @@ class OrgSpider(scrapy.Spider):
             return visible_text
     
 
+    def do_nothing():
+         return 
