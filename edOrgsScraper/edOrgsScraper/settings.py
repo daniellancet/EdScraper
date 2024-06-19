@@ -20,9 +20,9 @@ NEWSPIDER_MODULE = "edOrgsScraper.spiders"
 ROBOTSTXT_OBEY = True# settings.py
 
 # Limit the depth of the crawl to 2
-DEPTH_LIMIT = 5
+DEPTH_LIMIT = 1
 
-RETRY_TIMES = 2
+RETRY_TIMES = 1
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
 
