@@ -1,0 +1,16 @@
+Content-Length: 162
+Content-Type: text/html
+Location: https://www.edexcelencia.org/
+Server: nginx
+X-Pantheon-Styx-Hostname: styx-fe3-b-5974b65774-g6djj
+X-Styx-Req-Id: a97a4256-2e2e-11ef-a3d3-7230ecbb74a9
+Cache-Control: public, max-age=86400
+Date: Wed, 19 Jun 2024 15:26:17 GMT
+X-Served-By: cache-chi-kigq8000129-CHI, cache-lax-kwhp1940123-LAX
+X-Cache: HIT, HIT
+X-Cache-Hits: 14, 0
+X-Timer: S1718810777.360153,VS0,VE4
+Vary: Cookie, Cookie
+Age: 14435
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish

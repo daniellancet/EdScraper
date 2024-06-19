@@ -1,0 +1,26 @@
+Content-Length: 9302
+Cache-Control: max-age=1800, public
+Content-Encoding: gzip
+Content-Language: en
+Content-Type: text/html; charset=UTF-8
+Etag: W/"1718669529"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Tue, 18 Jun 2024 00:12:09 GMT
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Content-Type-Options: nosniff
+X-Drupal-Cache: HIT
+X-Drupal-Dynamic-Cache: MISS
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe3-a-798c7f76cb-knqfg
+X-Styx-Req-Id: 729a02fb-2e55-11ef-9d82-42ba940a02c4
+Date: Wed, 19 Jun 2024 16:03:20 GMT
+X-Served-By: cache-chi-klot8100034-CHI, cache-lax-kwhp1940044-LAX
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1718813000.120372,VS0,VE86
+Vary: Accept-Encoding, Cookie, Cookie, Cookie
+Age: 0
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish

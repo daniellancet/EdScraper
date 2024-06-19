@@ -1,0 +1,14 @@
+Content-Length: 13813
+Server: nginx
+Date: Wed, 19 Jun 2024 15:26:20 GMT
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: PHP/7.3.25
+X-Powered-By: PleskLin
+X-Dlm-No-Waypoints: true
+Link: <https://scopela.org/wp-json/>; rel="https://api.w.org/", <https://scopela.org/wp-json/wp/v2/pages/4>; rel="alternate"; type="application/json", <https://scopela.org/>; rel=shortlink
+X-Tec-Api-Version: v1
+X-Tec-Api-Root: https://scopela.org/wp-json/tribe/events/v1/
+X-Tec-Api-Origin: https://scopela.org
+Vary: User-Agent,Accept-Encoding
+Ms-Author-Via: DAV
+Content-Encoding: gzip

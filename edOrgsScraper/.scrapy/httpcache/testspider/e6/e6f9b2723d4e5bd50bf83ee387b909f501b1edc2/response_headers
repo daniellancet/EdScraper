@@ -1,0 +1,23 @@
+Content-Length: 722
+Cache-Control: must-revalidate, no-cache, private
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Location: https://www.edexcelencia.org/programs-initiatives/growing-what-works-database/conexion-americas-college-success-program
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Content-Type-Options: nosniff
+X-Drupal-Route-Normalizer: 1
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe3-b-676cffc6c-874fh
+X-Styx-Req-Id: 5a096359-2e64-11ef-80f6-f6ffe8d91075
+Date: Wed, 19 Jun 2024 17:50:01 GMT
+X-Served-By: cache-chi-kigq8000024-CHI, cache-lax-kwhp1940144-LAX
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1718819401.354089,VS0,VE134
+Vary: Cookie, Cookie
+Age: 0
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish

@@ -1,0 +1,23 @@
+Content-Length: 450
+Cache-Control: must-revalidate, no-cache, private
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Location: https://www.edexcelencia.org/research-policy/policy
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe3-a-798c7f76cb-ttngn
+X-Redirect-Id: 2193
+X-Styx-Req-Id: 7981f8be-2e50-11ef-bb8d-7a4af5932f12
+Date: Wed, 19 Jun 2024 15:27:44 GMT
+X-Served-By: cache-chi-klot8100080-CHI, cache-lax-kwhp1940110-LAX
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1718810864.223884,VS0,VE147
+Vary: Cookie, Cookie
+Age: 0
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish

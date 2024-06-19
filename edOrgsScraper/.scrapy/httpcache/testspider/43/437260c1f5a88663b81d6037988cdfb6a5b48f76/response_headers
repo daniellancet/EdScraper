@@ -1,0 +1,23 @@
+Content-Length: 430
+Cache-Control: must-revalidate, no-cache, private
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Location: https://www.edexcelencia.org/latinos-workforce
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe3-b-676cffc6c-874fh
+X-Redirect-Id: 2102
+X-Styx-Req-Id: 5fd5bed1-2e64-11ef-80f6-f6ffe8d91075
+Date: Wed, 19 Jun 2024 17:50:11 GMT
+X-Served-By: cache-chi-klot8100056-CHI, cache-lax-kwhp1940113-LAX
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1718819411.083865,VS0,VE157
+Vary: Cookie, Cookie
+Age: 0
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish

@@ -1,0 +1,13 @@
+Content-Length: 30259
+X-Powered-By: PHP/7.4.33
+Content-Type: text/html; charset=UTF-8
+Link: <https://asterfoundation.ca/wp-json/>; rel="https://api.w.org/"
+Link: <https://asterfoundation.ca/wp-json/wp/v2/pages/9>; rel="alternate"; type="application/json"
+Link: <https://asterfoundation.ca/>; rel=shortlink
+Etag: "33324-1718626969;gz"
+X-Litespeed-Cache: hit
+Content-Encoding: gzip
+Vary: Accept-Encoding,User-Agent
+Date: Wed, 19 Jun 2024 16:31:19 GMT
+Server: LiteSpeed
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"

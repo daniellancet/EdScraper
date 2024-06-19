@@ -1,0 +1,16 @@
+Content-Length: 162
+Content-Type: text/html
+Location: https://www.edexcelencia.org/ms-environmental-science
+Server: nginx
+X-Pantheon-Styx-Hostname: styx-fe3-a-6b7f65b557-gk6lb
+X-Styx-Req-Id: 2225a747-2dec-11ef-8a96-821e33aab1a1
+Cache-Control: public, max-age=86400
+Date: Wed, 19 Jun 2024 15:27:48 GMT
+X-Served-By: cache-chi-klot8100112-CHI, cache-lax-kwhp1940123-LAX
+X-Cache: HIT, HIT
+X-Cache-Hits: 1, 0
+X-Timer: S1718810868.255796,VS0,VE3
+Vary: Cookie, Cookie
+Age: 43100
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish

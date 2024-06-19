@@ -1,0 +1,16 @@
+Content-Length: 162
+Content-Type: text/html
+Location: https://www.edexcelencia.org/institute-interdisciplinary-research
+Server: nginx
+X-Pantheon-Styx-Hostname: styx-fe3-a-6b7f65b557-52wpx
+X-Styx-Req-Id: 209eb9a3-2dec-11ef-8f06-0accc51c99eb
+Cache-Control: public, max-age=86400
+Date: Wed, 19 Jun 2024 15:27:48 GMT
+X-Served-By: cache-chi-kigq8000118-CHI, cache-lax-kwhp1940123-LAX
+X-Cache: HIT, HIT
+X-Cache-Hits: 1, 0
+X-Timer: S1718810869.619371,VS0,VE4
+Vary: Cookie, Cookie
+Age: 43103
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish

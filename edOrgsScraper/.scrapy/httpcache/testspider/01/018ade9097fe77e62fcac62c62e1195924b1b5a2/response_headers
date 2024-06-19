@@ -1,0 +1,16 @@
+Content-Length: 162
+Content-Type: text/html
+Location: https://www.edexcelencia.org/conexion-americas-college-success-program
+Server: nginx
+X-Pantheon-Styx-Hostname: styx-fe3-a-798c7f76cb-knqfg
+X-Styx-Req-Id: 7afbbccb-2e50-11ef-9d82-42ba940a02c4
+Cache-Control: public, max-age=86400
+Date: Wed, 19 Jun 2024 17:50:00 GMT
+X-Served-By: cache-chi-klot8100111-CHI, cache-lax-kwhp1940047-LAX
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 0
+X-Timer: S1718819401.971796,VS0,VE5
+Vary: Cookie, Cookie
+Age: 8534
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish

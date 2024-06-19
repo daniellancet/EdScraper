@@ -1,0 +1,23 @@
+Content-Length: 654
+Cache-Control: must-revalidate, no-cache, private
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Location: https://www.edexcelencia.org/programs-initiatives/growing-what-works-database/ms-environmental-science
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Content-Type-Options: nosniff
+X-Drupal-Route-Normalizer: 1
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe3-b-676cffc6c-wf925
+X-Styx-Req-Id: 7c29b74e-2e50-11ef-86d9-da01ec0f9399
+Date: Wed, 19 Jun 2024 15:27:48 GMT
+X-Served-By: cache-chi-kigq8000144-CHI, cache-lax-kwhp1940069-LAX
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1718810869.677339,VS0,VE133
+Vary: Cookie, Cookie
+Age: 0
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish

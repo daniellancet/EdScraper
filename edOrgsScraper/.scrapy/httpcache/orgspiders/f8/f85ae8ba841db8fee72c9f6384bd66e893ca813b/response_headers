@@ -1,0 +1,17 @@
+Content-Length: 0
+Location: https://www.mideastcenter.org/post/spyer-at-rusi-the-war-over-the-ruins
+X-Wix-Request-Id: 1718810849.734399725560730106
+Age: 0
+Cache-Control: no-cache
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Accept-Ranges: bytes
+Date: Wed, 19 Jun 2024 15:27:29 GMT
+X-Served-By: cache-bur-kbur8200055-BUR
+X-Cache: MISS
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_uw2-pub-1_g
+Strict-Transport-Security: max-age=86401
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,dwc60INy8NFddnU/0WdlOB9slopJdhD+WySraMrpIY8=,m0j2EEknGIVUW/liY8BLLjmaS7Ki5l/bn9NiiirFyVEm++C2XkuTvnlRFg2XiSDL,2d58ifebGbosy5xc+FRalv+jpo9Y1ZKmChRyMdyhsAmXdSRb3r9k5rd6d/NcrpdkVZeqI0CPkflrPuM0wGHpew==,2UNV7KOq4oGjA5+PKsX47MQSdi0AYTjuWOc8y48MAyZjPZTuGyYqVhtmEIgJUb4w,R8nVwPJv9QJL1m78OROO+AfjsykLwjQYl5VtZKiTKJU=,/j+AjfLiOiE0Vc9NsP8sK6ac7q5I3TX6dtx+oLT7IDYSO5XmrrCSQNDehIjmfew3HbVQooZck32YNS+zKKh+9A==
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

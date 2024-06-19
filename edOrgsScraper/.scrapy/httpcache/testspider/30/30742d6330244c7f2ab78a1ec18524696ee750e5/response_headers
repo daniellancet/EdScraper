@@ -1,0 +1,21 @@
+Cache-Control: must-revalidate, no-cache, private
+Content-Encoding: gzip
+Content-Language: en
+Content-Type: text/html; charset=UTF-8
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe3-a-798c7f76cb-ns4b9
+X-Styx-Req-Id: 5e5f8240-2e64-11ef-86c5-86f34ec294d4
+Date: Wed, 19 Jun 2024 17:50:09 GMT
+X-Served-By: cache-chi-kigq8000051-CHI, cache-lax-kwhp1940109-LAX
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1718819409.630134,VS0,VE557
+Vary: Accept-Encoding, Cookie, Cookie
+Age: 0
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish

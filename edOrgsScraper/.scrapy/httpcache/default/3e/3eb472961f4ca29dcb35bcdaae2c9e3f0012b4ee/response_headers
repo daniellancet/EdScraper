@@ -1,0 +1,11 @@
+X-Powered-By: PHP/7.4.33
+Link: <https://asterfoundation.ca/wp-json/>; rel="https://api.w.org/"
+Content-Type: text/plain; charset=utf-8
+X-Robots-Tag: noindex
+Etag: "33341-1718630163;gz"
+X-Litespeed-Cache: hit
+Content-Encoding: gzip
+Vary: Accept-Encoding,User-Agent
+Date: Wed, 19 Jun 2024 16:30:13 GMT
+Server: LiteSpeed
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"

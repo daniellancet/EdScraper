@@ -1,0 +1,11 @@
+X-Powered-By: PHP/7.4.33
+Content-Type: text/html; charset=UTF-8
+Link: <https://asterfoundation.ca/wp-json/>; rel="https://api.w.org/"
+Link: <https://asterfoundation.ca/wp-json/wp/v2/pages/887>; rel="alternate"; type="application/json"
+Link: <https://asterfoundation.ca/?p=887>; rel=shortlink
+Etag: "33405-1718669466;gz"
+X-Litespeed-Cache: hit
+Content-Encoding: gzip
+Vary: Accept-Encoding,User-Agent
+Date: Wed, 19 Jun 2024 16:34:49 GMT
+Server: LiteSpeed

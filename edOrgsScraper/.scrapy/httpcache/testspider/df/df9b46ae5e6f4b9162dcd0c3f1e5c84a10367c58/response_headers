@@ -1,0 +1,24 @@
+Content-Length: 470
+Cache-Tags: page_manager_route_name:entity.taxonomy_term.canonical http_response config:user.role.anonymous
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Location: https://www.edexcelencia.org/research/series/hsi-2022-23
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Content-Type-Options: nosniff
+X-Drupal-Cache: HIT
+X-Drupal-Route-Normalizer: 1
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe3-a-798c7f76cb-fdsmw
+X-Styx-Req-Id: 75938d0a-2e50-11ef-b556-1a3cc11aa124
+Cache-Control: public, max-age=86400
+Date: Wed, 19 Jun 2024 17:49:48 GMT
+X-Served-By: cache-chi-kigq8000056-CHI, cache-lax-kwhp1940123-LAX
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 0
+X-Timer: S1718819389.592318,VS0,VE3
+Vary: Cookie, Cookie
+Age: 8531
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish

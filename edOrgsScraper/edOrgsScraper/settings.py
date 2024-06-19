@@ -20,9 +20,9 @@ NEWSPIDER_MODULE = "edOrgsScraper.spiders"
 ROBOTSTXT_OBEY = True# settings.py
 
 # Limit the depth of the crawl to 2
-DEPTH_LIMIT = 1
+DEPTH_LIMIT = 2
 
-RETRY_TIMES = 1
+RETRY_TIMES = 2
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
 
@@ -97,3 +97,13 @@ TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
 
 OFFSITE_MIDDLEWARE_ENABLED = False
+#DOWNLOAD_DELAY = 0.5  # Time in seconds
+#RANDOMIZE_DOWNLOAD_DELAY = True
+# Enable the HTTP cache middleware
+HTTPCACHE_ENABLED = True
+
+# Set the cache expiration time in seconds (optional, default is 0, no expiration)
+HTTPCACHE_EXPIRATION_SECS = 3600  # Cache expires after 1 hour
+
+# Choose a storage backend for the cache (file, dbm, mongodb, redis, etc.)
+HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'

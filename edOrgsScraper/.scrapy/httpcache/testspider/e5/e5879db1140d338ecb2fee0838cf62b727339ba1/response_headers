@@ -1,0 +1,23 @@
+Content-Length: 398
+Content-Language: en
+Content-Type: text/html; charset=UTF-8
+Location: https://narst.org/enarstnews/july-2016
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Content-Type-Options: nosniff
+X-Drupal-Cache: HIT
+X-Drupal-Route-Normalizer: 1
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe3-a-6b7f65b557-ddhnw
+X-Styx-Req-Id: 38e1fa73-2de7-11ef-9fc5-fed6802588d3
+Cache-Control: public, max-age=86400
+Date: Wed, 19 Jun 2024 16:03:21 GMT
+X-Served-By: cache-chi-kigq8000094-CHI, cache-lax-kwhp1940048-LAX
+X-Cache: HIT, MISS
+X-Cache-Hits: 2, 0
+X-Timer: S1718813001.154785,VS0,VE64
+Vary: Cookie, Cookie
+Age: 47342
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish

@@ -1,0 +1,21 @@
+Content-Length: 112
+Server: Sucuri/Cloudproxy
+Date: Wed, 19 Jun 2024 18:05:53 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sucuri-Id: 11018
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests;
+Link: <https://opendatawatch.com/wp-json/>; rel="https://api.w.org/"
+X-Et-Api-Version: v1
+X-Et-Api-Root: https://opendatawatch.com/wp-json/tribe/tickets/v1/
+X-Et-Api-Origin: https://opendatawatch.com
+X-Tec-Api-Version: v1
+X-Tec-Api-Root: https://opendatawatch.com/wp-json/tribe/events/v1/
+X-Tec-Api-Origin: https://opendatawatch.com
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-Sucuri-Cache: EXPIRED

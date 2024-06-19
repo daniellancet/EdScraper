@@ -1,0 +1,16 @@
+Content-Length: 162
+Content-Type: text/html
+Location: https://www.edexcelencia.org/cardinal-first
+Server: nginx
+X-Pantheon-Styx-Hostname: styx-fe3-a-6b7f65b557-8xbt4
+X-Styx-Req-Id: 1fd4abb6-2dec-11ef-9d35-82cdf6b7dab3
+Cache-Control: public, max-age=86400
+Date: Wed, 19 Jun 2024 15:27:46 GMT
+X-Served-By: cache-chi-klot8100097-CHI, cache-lax-kwhp1940123-LAX
+X-Cache: HIT, HIT
+X-Cache-Hits: 1, 0
+X-Timer: S1718810867.925653,VS0,VE3
+Vary: Cookie, Cookie
+Age: 43103
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish

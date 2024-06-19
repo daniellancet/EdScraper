@@ -1,0 +1,23 @@
+Content-Length: 670
+Cache-Control: must-revalidate, no-cache, private
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Location: https://www.edexcelencia.org/programs-initiatives/growing-what-works-database/latino-promise-hacer-program
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Content-Type-Options: nosniff
+X-Drupal-Route-Normalizer: 1
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe3-b-676cffc6c-sb2jq
+X-Styx-Req-Id: 5f19b82c-2e64-11ef-a875-6ec6e69e820f
+Date: Wed, 19 Jun 2024 17:50:09 GMT
+X-Served-By: cache-chi-klot8100034-CHI, cache-lax-kwhp1940144-LAX
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1718819410.850085,VS0,VE140
+Vary: Cookie, Cookie
+Age: 0
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish

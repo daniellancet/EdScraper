@@ -1,0 +1,23 @@
+Content-Length: 362
+Cache-Control: must-revalidate, no-cache, private
+Content-Language: en
+Content-Type: text/html; charset=UTF-8
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Location: https://narst.org/search/node
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Content-Type-Options: nosniff
+X-Drupal-Cache: HIT
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe3-b-676cffc6c-874fh
+X-Styx-Req-Id: 72353303-2e55-11ef-80f6-f6ffe8d91075
+Date: Wed, 19 Jun 2024 16:03:19 GMT
+X-Served-By: cache-chi-kigq8000107-CHI, cache-lax-kwhp1940060-LAX
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1718812999.452339,VS0,VE96
+Vary: Cookie, Cookie
+Age: 0
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish

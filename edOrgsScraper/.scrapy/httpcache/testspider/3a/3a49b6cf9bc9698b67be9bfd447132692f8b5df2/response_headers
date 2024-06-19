@@ -1,0 +1,16 @@
+Content-Length: 162
+Content-Type: text/html
+Location: https://www.edexcelencia.org/ambiciones
+Server: nginx
+X-Pantheon-Styx-Hostname: styx-fe3-a-6b7f65b557-fzx6m
+X-Styx-Req-Id: 1fcce280-2dec-11ef-9477-8e97db2d0ebc
+Cache-Control: public, max-age=86400
+Date: Wed, 19 Jun 2024 17:50:01 GMT
+X-Served-By: cache-chi-kigq8000036-CHI, cache-lax-kwhp1940047-LAX
+X-Cache: HIT, HIT
+X-Cache-Hits: 1, 0
+X-Timer: S1718819402.859726,VS0,VE3
+Vary: Cookie, Cookie
+Age: 51638
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish

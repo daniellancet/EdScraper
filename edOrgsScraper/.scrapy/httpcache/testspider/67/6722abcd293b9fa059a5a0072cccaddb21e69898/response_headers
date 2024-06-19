@@ -1,0 +1,24 @@
+Content-Length: 518
+Cache-Tags: redirect:1874 page_manager_route_name: http_response
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Location: https://www.edexcelencia.org/seal/leaders-supporting-seal-excelencia
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Content-Type-Options: nosniff
+X-Drupal-Cache: HIT
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe3-b-5974b65774-l9tqm
+X-Redirect-Id: 1874
+X-Styx-Req-Id: aec78c6c-2db3-11ef-9066-fa4e1a6bfffb
+Cache-Control: public, max-age=86400
+Date: Wed, 19 Jun 2024 17:49:51 GMT
+X-Served-By: cache-chi-klot8100089-CHI, cache-lax-kwhp1940029-LAX
+X-Cache: HIT, MISS
+X-Cache-Hits: 1, 0
+X-Timer: S1718819392.685961,VS0,VE67
+Vary: Cookie, Cookie
+Age: 75869
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish

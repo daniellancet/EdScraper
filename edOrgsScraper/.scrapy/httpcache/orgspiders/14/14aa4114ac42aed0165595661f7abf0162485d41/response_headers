@@ -1,0 +1,23 @@
+Content-Length: 482
+Cache-Control: must-revalidate, no-cache, private
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Location: https://www.edexcelencia.org/what-works/examples-excelencia
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Content-Type-Options: nosniff
+X-Drupal-Route-Normalizer: 1
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe3-b-676cffc6c-wf925
+X-Styx-Req-Id: 7d230653-2e50-11ef-86d9-da01ec0f9399
+Date: Wed, 19 Jun 2024 15:27:50 GMT
+X-Served-By: cache-chi-klot8100134-CHI, cache-lax-kwhp1940055-LAX
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1718810870.313485,VS0,VE136
+Vary: Cookie, Cookie
+Age: 0
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish

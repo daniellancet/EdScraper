@@ -1,0 +1,24 @@
+Content-Length: 510
+Cache-Tags: redirect:1745 page_manager_route_name: http_response
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Location: https://www.edexcelencia.org/seal/seal-excelencia-advisory-council
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Content-Type-Options: nosniff
+X-Drupal-Cache: HIT
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe3-b-5974b65774-sv5bz
+X-Redirect-Id: 1745
+X-Styx-Req-Id: 1a053b8a-2e0e-11ef-9481-c6fdc2877e44
+Cache-Control: public, max-age=86400
+Date: Wed, 19 Jun 2024 17:49:51 GMT
+X-Served-By: cache-chi-klot8100067-CHI, cache-lax-kwhp1940048-LAX
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 0
+X-Timer: S1718819392.627706,VS0,VE3
+Vary: Cookie, Cookie
+Age: 37034
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish

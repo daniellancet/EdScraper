@@ -1,0 +1,21 @@
+Content-Length: 234254
+Cache-Control: public
+Content-Language: en
+Content-Type: application/pdf
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Tue, 18 Jul 2023 20:19:44 GMT
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe3-a-798c7f76cb-pmhx9
+X-Styx-Req-Id: 5ff7456c-2e64-11ef-ba43-b6c76dcde96c
+Date: Wed, 19 Jun 2024 17:50:11 GMT
+X-Served-By: cache-chi-klot8100148-CHI, cache-lax-kwhp1940144-LAX
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1718819411.303899,VS0,VE294
+Age: 0
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish
